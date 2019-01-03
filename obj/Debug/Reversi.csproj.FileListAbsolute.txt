@@ -1,0 +1,27 @@
+G:\Language C#\Reversi\bin\Debug\黑白棋.exe
+G:\Language C#\Reversi\bin\Debug\黑白棋.pdb
+G:\Language C#\Reversi\obj\Debug\Reversi.csprojResolveAssemblyReference.cache
+G:\Language C#\Reversi\obj\Debug\WindowsApplication1.Form1.resources
+G:\Language C#\Reversi\obj\Debug\WindowsApplication1.Properties.Resources.resources
+G:\Language C#\Reversi\obj\Debug\Reversi.csproj.GenerateResource.Cache
+G:\Language C#\Reversi\obj\Debug\Reversi.csproj.CoreCompileInputs.cache
+G:\Language C#\Reversi\obj\Debug\黑白棋.exe
+G:\Language C#\Reversi\obj\Debug\黑白棋.pdb
+G:\IT-260-01 - Advanced Programming\Final\Reversi\bin\Debug\黑白棋.exe
+G:\IT-260-01 - Advanced Programming\Final\Reversi\bin\Debug\黑白棋.pdb
+G:\IT-260-01 - Advanced Programming\Final\Reversi\obj\Debug\Reversi.csprojResolveAssemblyReference.cache
+G:\IT-260-01 - Advanced Programming\Final\Reversi\obj\Debug\WindowsApplication1.Form1.resources
+G:\IT-260-01 - Advanced Programming\Final\Reversi\obj\Debug\WindowsApplication1.Properties.Resources.resources
+G:\IT-260-01 - Advanced Programming\Final\Reversi\obj\Debug\Reversi.csproj.GenerateResource.Cache
+G:\IT-260-01 - Advanced Programming\Final\Reversi\obj\Debug\Reversi.csproj.CoreCompileInputs.cache
+G:\IT-260-01 - Advanced Programming\Final\Reversi\obj\Debug\黑白棋.exe
+G:\IT-260-01 - Advanced Programming\Final\Reversi\obj\Debug\黑白棋.pdb
+G:\Monroe College Fall 2017\IT-260-01 - Advanced Programming\Final\Reversi\bin\Debug\黑白棋.exe
+G:\Monroe College Fall 2017\IT-260-01 - Advanced Programming\Final\Reversi\bin\Debug\黑白棋.pdb
+G:\Monroe College Fall 2017\IT-260-01 - Advanced Programming\Final\Reversi\obj\Debug\WindowsApplication1.Form1.resources
+G:\Monroe College Fall 2017\IT-260-01 - Advanced Programming\Final\Reversi\obj\Debug\WindowsApplication1.Properties.Resources.resources
+G:\Monroe College Fall 2017\IT-260-01 - Advanced Programming\Final\Reversi\obj\Debug\Reversi.csproj.GenerateResource.Cache
+G:\Monroe College Fall 2017\IT-260-01 - Advanced Programming\Final\Reversi\obj\Debug\Reversi.csproj.CoreCompileInputs.cache
+G:\Monroe College Fall 2017\IT-260-01 - Advanced Programming\Final\Reversi\obj\Debug\黑白棋.exe
+G:\Monroe College Fall 2017\IT-260-01 - Advanced Programming\Final\Reversi\obj\Debug\黑白棋.pdb
+G:\Monroe College Fall 2017\IT-260-01 - Advanced Programming\Final\Reversi\obj\Debug\Reversi.csprojAssemblyReference.cache
